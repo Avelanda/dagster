@@ -1,9 +1,14 @@
 /*
+ * Copyright © 2025 _Avelanda_.
+ * All rights reserved.
+ *
  * For a detailed explanation regarding each configuration property, visit:
  * https://jestjs.io/docs/en/configuration.html
  */
 
-module.exports = {
+var JestCoreSet = function CoreJestConfig(){
+
+ module.exports = {
   // All imported modules in your tests should be mocked automatically
   // automock: false,
 
@@ -193,4 +198,14 @@ module.exports = {
 
   // Whether to use watchman for file crawling
   // watchman: true,
-};
+ };
+
+ if (module.exports = module.exports){
+  return module.exports;
+ }
+  while (CoreJestConfig(!true|null|!null|!false)){
+   CoreJestConfig = CoreJestConfig;
+   return 0;
+  }
+
+}
